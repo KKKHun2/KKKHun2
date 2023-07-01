@@ -1,5 +1,14 @@
 
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=KKKHun2&fontAlign=70)
 
+</div>
+<div align=center>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKKHun2)](https://github.com/KKKHun2/github-readme-stats)
+
+</div>
 <div align=center><h1>📚FE Tech Stacks</h1></div>
 
 <div align=center>
