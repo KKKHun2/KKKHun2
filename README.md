@@ -12,7 +12,11 @@
 <h2>안녕하세요! </h2>
 <div>프론트엔드 개발자 김용훈입니다.</div>
 테스트 가능한, 유지 보수가 용이한 코드와 구조에 관심이 많고, 프로젝트에 적용하며 공부하고 있습니다.
-
+<div>
+  <br />
+  <a href="mailto:1224kim2son@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="mailto:1224kim2son@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> </a> 
+</div>
 <div align=center><h1>📚FE Tech Stacks</h1></div>
 
 <div align=center>
