@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=KKKHun2&fontAlign=65)
 
 </div>
-<div align=center>
+<div style="user-select: none", align=center> 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKKHun2)](https://github.com/KKKHun2/github-readme-stats)
 
