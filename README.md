@@ -1,14 +1,22 @@
 
+
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=KKKHun2&fontAlign=65)
+</div>
+
+<div align=center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KKKHun2" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KKKHun2&layout=compact&langs_count=10&card_width=320" />
+</a>
 
 </div>
-<div style="user-select: none", align=center> 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKKHun2)](https://github.com/KKKHun2/github-readme-stats)
 
-</div>
+
+
 <h2>안녕하세요! </h2>
 <div>프론트엔드 개발자 김용훈입니다.</div>
 테스트 가능한, 유지 보수가 용이한 코드와 구조에 관심이 많고, 프로젝트에 적용하며 공부하고 있습니다.
