@@ -30,6 +30,8 @@
   <br />
   <a href="mailto:1224kim2son@gmail.com"><img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="mailto:1224kim2son@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> </a> 
+  <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"> </a> 
+
 </div>
 <div align=center><h1>📚FE Tech Stacks</h1></div>
 
