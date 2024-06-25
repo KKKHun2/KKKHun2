@@ -2,7 +2,7 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=KKKHun2&fontAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=KKKHun2😎&fontAlign=65)
 </div>
 
 <div align=center>
@@ -10,7 +10,7 @@
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=KKKHun2" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KKKHun2&layout=compact&langs_count=10&card_width=320" />
+  <img height=200 width=340 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KKKHun2&layout=compact&langs_count=10&card_width=320" />
 </a>
 
 </div>
